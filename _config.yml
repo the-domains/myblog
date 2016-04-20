@@ -1,0 +1,14 @@
+layout_spectrum: 0.6096745301038027
+typography_spectrum: 0.29257117840461433
+color:
+  brandStrength: 0.9661673188675195
+  lightness: 0.8732710785698146
+  saturation: 0.15258656721562147
+  rhythmicContrast: 0.1248021605424583
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: MYBLOG
